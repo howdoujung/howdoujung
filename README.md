@@ -1,6 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=howdoujung)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:a18cd1,100:fbc2eb&height=200&section=header&text=howdoujung&fontSize=70)
+
 
 ### 🐱 SNS List 🐱
 <a href="https://www.notion.so/e51c54cc3ef7474ea6df3b026113b038" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
@@ -26,7 +27,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howdoujung&layout=compact&theme=dark)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zmffltmxls})](https://solved.ac/{zmffltmxls})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={zmffltmxls})](https://solved.ac/{zmffltmxls})
 </div>
 
 
