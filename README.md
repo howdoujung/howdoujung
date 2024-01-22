@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **howdoujung/howdoujung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.notion.so/e51c54cc3ef7474ea6df3b026113b038" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=000000&logoColor=000000"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howdoujung&show_icons=true&theme=radical)
